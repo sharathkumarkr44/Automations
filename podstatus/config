@@ -1,0 +1,5 @@
+HOME_DIR=/opt/app/workload/RPSScripts/sk742g/podstatus
+LOG_DIR=${HOME_DIR}/logs
+SENDER="sk742g@att.com"
+RECEIVER="sk742g@att.com"
+SUBJECT="POD status for $@"

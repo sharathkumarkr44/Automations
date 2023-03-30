@@ -1,0 +1,9 @@
+Logging into pod47f05...
+action-pod47f05 :Deleted logs greater than 30 days
+Final_Space of pod47f05	71 Current_space was 81
+Logging into pod47b01...
+action-pod47b01 :Compressed logs greater than 1 day
+Final_Space of pod47b01	77 Current_space was 81
+Logging into pod47b02...
+action-pod47b02 :Compressed logs greater than 1 day
+Final_Space of pod47b02	76 Current_space was 81

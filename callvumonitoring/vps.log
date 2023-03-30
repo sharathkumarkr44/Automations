@@ -1,0 +1,62 @@
+  HTTP/1.1 200 OK
+  Server: Apache-Coyote/1.1
+  Accept-Ranges: bytes
+  ETag: W/"1505-1445076088000"
+  Last-Modified: Sat, 17 Oct 2015 10:01:28 GMT
+  Content-Type: text/html
+  Content-Length: 1505
+  Date: Sun, 07 Mar 2021 11:38:22 GMT
+  Connection: keep-alive
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" 
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>CTN View Port Status</title>
+
+		<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+		<meta http-equiv="description" content="this is my page">
+		<meta http-equiv="content-type"
+			content="text/html; charset=ISO-8859-1">
+
+		<!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+
+		<link rel="stylesheet" href="vps.css" type="text/css">
+
+	</head>
+
+	<body>
+		<script language="javascript"
+			src="/tvws/gwt/com.cingular.tvws.vps.gwt.VpsAction/com.cingular.tvws.vps.gwt.VpsAction.nocache.js"></script>
+
+		<div
+			style='color:#371b8b; font-size:1.5em; font-family:arial; font-weight:bold; padding: 0px 20px 10px 20px; '>
+			<div>
+				<img alt="ATT Logo" src="images/logo_cingular.gif">
+			</div>
+			<br>
+			<div style="float:left">
+				View CTN Port Status
+			</div>
+
+			<div
+				style="padding-top:10px;float:right; font-size:0.7em;font-style: italic">
+				System X Web Services
+			</div>
+
+		</div>
+		<br>
+		<hr
+			style=" border-style:solid; height: 3px; background-color:#688868; border-color:#688868; color:#688868;">
+		<br>
+		<center>
+			<div class="contentBox" id="mainArea"></div>
+			<div>
+				<br>
+				<br>
+				<small> <small>Copyright 2008 AT&amp;T Knowledge Ventures. All
+					rights reserved. <br>Copying, distributing, or publication
+					without express permission is prohibited. </small></small>
+			</div>
+		</center>
+	</body>
+</html>

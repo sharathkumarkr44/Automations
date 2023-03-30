@@ -1,0 +1,3 @@
+https://callvu-opus-dal.web.att.com/IDREG/healthcheck CallVu-opus-dal_IDREG_Internal
+https://callvu-opus-dal.web.att.com:8443/IDREG/healthcheck CallVu-opus-dal_IDREG_https_Internal
+http://cldprd8srv80346.itservices.sbc.com:8080/att/java/healthcheck Java

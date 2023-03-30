@@ -1,0 +1,3 @@
+https://secure-dal.att.com/IDS/healthcheck CallVu_Secure-dal_IDS_External
+https://callvu-opus-dal.web.att.com/IDS/healthcheck CallVu-opus-dal_IDS_Internal
+https://callvu-opus-dal.web.att.com:8443/IDS/healthcheck CallVu-opus-dal_IDS_https_Internal

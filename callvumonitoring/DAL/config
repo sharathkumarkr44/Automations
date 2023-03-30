@@ -1,0 +1,10 @@
+HOME_DIR=/opt/app/workload/RPSScripts/sk742g/callvumonitoring/DAL
+LOG_DIR=${HOME_DIR}/logs
+SENDER="sk742g@att.com"
+RECEIVER="sk742g@att.com"
+SUBJECT="Dallas CallVU healthcheck status"
+IDS_URL=${HOME_DIR}/IDS_url_List
+IDS_Portal_url=${HOME_DIR}/IDS_Portal_url_List
+IDREG_url=${HOME_DIR}/IDREG_url_List
+Java_url=${HOME_DIR}/Java_url_List
+AttUtils_url=${HOME_DIR}/AttUtils_url_List
